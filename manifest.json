@@ -1,12 +1,12 @@
 {
     "name": "Fb-Editor",
     "description": "Extension!",
-    "version": "1.0",
+    "version": "1.0.0",
     "manifest_version": 3,
     "action": {
     },
     "icons": {
-      "100": "images\r_Facebook Post 940x788 px (1).jpg"
+      "64": "images/fb.png"
     },
     "permissions": [
       "clipboardRead"
