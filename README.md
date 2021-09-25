@@ -76,6 +76,8 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 ## Project Head
 
 
-        <p>[ABHISHEK BOSE](https://www.linkedin.com/in/abhisek-bose/)</p>
+ [ABHISHEK BOSE](https://www.linkedin.com/in/abhisek-bose/)
+ and special thanks to 
+ [Christina Evers](https://www.linkedin.com/in/chris-evers-06478a183/)
    
 
