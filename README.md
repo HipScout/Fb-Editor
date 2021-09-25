@@ -20,8 +20,8 @@ If you'd like to **contribute** and make this much better for the users, have a 
 - [Project Head](#project-head)
 - [Contributors](#project-maintainers)
 
-## Portfolio Sections
- Different types of toolbar
+## Toolbar Sections
+    Different types of toolbar
 ✔️ Bold\
 ✔️ Italic\
 ✔️ Cursive\
@@ -69,4 +69,16 @@ cd Fb-Editor
 - [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 - [Chrome Extension Developer](https://developer.chrome.com/)
 - [Node.js](https://nodejs.org/en/)
+
+## For the Future
+If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/HipScout/Fb-Editor/pulls)
+
+## Project Head
+
+<table>
+    <tr>
+        <p>[ABHISHEK BOSE](https://www.linkedin.com/in/abhisek-bose/)</p>
+    </tr>
+
+</table>
 
