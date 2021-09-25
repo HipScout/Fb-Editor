@@ -31,7 +31,7 @@ If you'd like to **contribute** and make this much better for the users, have a 
 ✔️ Small\
 ✔️ Upside down\
 
-To view live example, **[click here](https://github.com/HipScout/Fb-Editor/)**,
+To view live example with a loom video, **[click here](https://www.loom.com/share/481cbb5914b4402783fc0ae8d16b7191)**,
 
 
 ## Getting Started
