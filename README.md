@@ -75,10 +75,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 ## Project Head
 
-<table>
-    <tr>
-        <p>[ABHISHEK BOSE](https://www.linkedin.com/in/abhisek-bose/)</p>
-    </tr>
 
-</table>
+        <p>[ABHISHEK BOSE](https://www.linkedin.com/in/abhisek-bose/)</p>
+   
 
